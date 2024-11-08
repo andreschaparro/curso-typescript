@@ -39,7 +39,7 @@ let variableNull;
 variableNull = null;
 console.log(variableNull);
 // Tipos de dato compuesto/estructurado: objeto literal
-// No es tipado por defecto, se necesita una interface para tiparlo
+// Se utiliza una interfaz o types para tiparlo
 const candidato = {
     nombre: "Pedro Sánchez",
     edad: 35,
