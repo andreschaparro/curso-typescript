@@ -7,6 +7,7 @@
 - [git-scm](https://git-scm.com/).
 - [Node.js (LTS)](https://nodejs.org/en).
 - [Globally Installing TypeScript via npm](https://www.typescriptlang.org/download/).
+- [Install the Angular CLI](https://angular.dev/tools/cli/setup-local).
 
 ## Hojas de ayuda
 
