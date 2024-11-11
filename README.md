@@ -15,6 +15,11 @@
 - [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf).
 - [Linux commands cheat sheet](https://linuxconfig.org/linux-commands-cheat-sheet).
 
+## Documentación
+
+- [TypeScript](https://www.typescriptlang.org/).
+- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript).
+
 ## Personalizar Visual Studio Code
 
 1. Clic en `File>Preferences>Profile>New Profile`.
